@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1118D15C-F376-43E9-8FA8-A72279C4709C}"
+	ProjectSection(SolutionItems) = preProject
+		HTML1.html = HTML1.html
+		HTMLPage2.html = HTMLPage2.html
+		js1.js = js1.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
